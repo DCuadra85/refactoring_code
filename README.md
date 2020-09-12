@@ -1,36 +1,11 @@
 # Code Refactor
 
-This project is to refactor existing code to get it up to date. The code was set to meet accessibility standards, add semantic tags, restructure the HTML, add accessible alt attributes,using semantic HTML tags instead of standard div tags.
+This repository is where I refactor existing code to get it up to date. The following actions were performed:
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+*The code was set to meet accessibility standards. 
+*Restructure the HTML.
+*Add accessible alt attributes.
+*Used semantic HTML tags instead of standard div tags.
 
 ## Credits
 
@@ -52,9 +27,8 @@ https://guides.github.com/features/mastering-markdown/
 
 * **Daniel Cuadra** 
 
-- https://github.com/DCuadra85)
-- https://www.linkedin.com/in/daniel-cuadra-3705aa39/
-- [Link to Portfolio Site](TBD)
+- [Link to GitHub] https://github.com/DCuadra85
+- [Link to LinkedIn] https://www.linkedin.com/in/daniel-cuadra-3705aa39/
 
 
 ## License
