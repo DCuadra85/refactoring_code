@@ -2,10 +2,20 @@
 
 This repository is where I refactor existing code to get it up to date. The following actions were performed:
 
-*The code was set to meet accessibility standards. 
-*Restructure the HTML.
-*Add accessible alt attributes.
-*Used semantic HTML tags instead of standard div tags.
+* The code was set to meet accessibility standards. 
+* Restructure the HTML.
+* Add accessible alt attributes.
+* Used semantic HTML tags instead of standard div tags.
+
+## Usage
+
+The HTML code needed significant adjustments. The first set of adjustments was to organize the code into a readily readable format with a reset.css file. After, all "div" tags were replaced with appropriate semantic tags, such as "header, nav, section, aside, and footer". All images had an alt attribute added to them.
+
+![HTML-code](./develop/assets/images/htmlscreen.png)
+
+Minor adjustments were made to the CSS code to make the HTML code properly load after the semantic tags were entered. One example of this is in the ".header nav {" line, which was originally ".header div {". Further re-organization of this code was also made.
+
+![CSS-code](./develop/assets/images/css-screen.png)
 
 ## Credits
 
@@ -27,8 +37,8 @@ This repository is where I refactor existing code to get it up to date. The foll
 
 * **Daniel Cuadra** 
 
-- [Link to GitHub] https://github.com/DCuadra85
-- [Link to LinkedIn] https://www.linkedin.com/in/daniel-cuadra-3705aa39/
+- [GitHub](https://github.com/DCuadra85)
+- [LinkedIn](https://www.linkedin.com/in/daniel-cuadra-3705aa39/)
 
 
 ## License
