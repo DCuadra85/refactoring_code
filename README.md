@@ -1,6 +1,6 @@
 # Code Refactor
 
-This repository is where I refactor existing code to get it up to date. The following actions were performed:
+This repository is where I refactor existing code to get it up to date. There is no changes to the visual aesthetic of the original webpage that is generated from the HTML and CSS code provided. The following actions were performed:
 
 * The code was set to meet accessibility standards. 
 * Restructure the HTML.
