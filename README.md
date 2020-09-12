@@ -9,9 +9,9 @@ This repository is where I refactor existing code to get it up to date. The foll
 
 ## Credits
 
-https://github.com/coding-boot-camp
-https://www.w3schools.com/
-https://guides.github.com/features/mastering-markdown/
+* https://github.com/coding-boot-camp
+* https://www.w3schools.com/
+* https://guides.github.com/features/mastering-markdown/
 
 ## Built With
 
